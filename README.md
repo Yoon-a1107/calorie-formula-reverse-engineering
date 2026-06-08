@@ -208,6 +208,4 @@ calorie-formula-reverse-engineering/
 
 ## 📎 관련 자료
 
-- 📊 [발표자료 보기](./presentation/slides.pdf)
-- 💻 [분석 노트북 보기](./notebook/calorie_prediction.ipynb)
 - 📄 Keytel LR et al. (2005). *Prediction of energy expenditure from heart rate monitoring during submaximal exercise.* Journal of Sports Sciences, 23(3), 289–297. DOI: 10.1080/02640410470001730089
